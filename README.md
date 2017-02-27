@@ -1,11 +1,11 @@
 # Maven
 
-Maven Image, withinstalled openssh-client
+Maven Image, withinstalled openssh-client & nodejs
 
 Usage:
 
 ~~~
-docker push hub.docker.com/bluebu/java
+docker push hub.docker.com/bluebu/maven
 ~~~
 
 
