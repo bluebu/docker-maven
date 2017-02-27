@@ -8,5 +8,3 @@ MAINTAINER bluebu <bluebuwang@gmail.com>
 RUN \
   apk --update --upgrade add openssh-client && \
   rm /var/cache/apk/*
-
-RUN eval $(ssh-agent -s)
