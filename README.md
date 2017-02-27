@@ -1,4 +1,4 @@
-# java
+# Maven
 
 Maven Image, withinstalled openssh-client
 
