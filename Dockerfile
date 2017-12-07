@@ -6,5 +6,5 @@ MAINTAINER bluebu <bluebuwang@gmail.com>
 #------------------------------------------------------------------------------
 
 RUN \
-  apk --update --upgrade add openssh openssh-client nodejs git && \
+  apk --update --upgrade add openssh nodejs git && \
   rm /var/cache/apk/*
